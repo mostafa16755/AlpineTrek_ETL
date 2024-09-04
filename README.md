@@ -1,6 +1,6 @@
 # AlpineTrek ETL Project
 ## Overview
-This project is a web scraping tool designed to extract product data from the AlpineTrek website, specifically focusing on men's outdoor clothing. The tool scrapes data from multiple product pages, cleans the data, and stores it in both JSON format and an SQLite database. The project follows the ETL (Extract, Transform, Load) process to ensure the data is well-organized and ready for analysis.
+This project is an ETL pipeline designed to utilize product data from the AlpineTrek website, specifically focusing on men's outdoor clothing. The tool scrapes data from multiple product pages, cleans the data, and stores it in both JSON format and an SQLite database. The project follows the ETL (Extract, Transform, Load) process to ensure the data is well-organized and ready for analysis.
 
 ## Project Structure
 The project is organized into four main components:
